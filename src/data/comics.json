@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "title": "Shinchan's Big Bouncy Day",
+    "cover": "/covers/bouncy.png",
+    "pdf": "/comics/BigBouncy.pdf",
+    "moods": [
+      "thriller",
+      "happy"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Shinossuke and The Fire Monster",
+    "cover": "/covers/fire.png",
+    "pdf": "/comics/FireMonster.pdf",
+    "moods": [
+      "action"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Mystery of Blue Vase",
+    "cover": "/covers/vase.png",
+    "pdf": "/comics/Mystery.pdf",
+    "moods": [
+      "thriller",
+      "mystery"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Royal Scarf Scandal",
+    "cover": "/covers/scarf.png",
+    "pdf": "/comics/RoyalScarf.pdf",
+    "moods": [
+      "mystery",
+      "happy"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Alistair and the Mist-Mending Jar",
+    "cover": "/covers/alistair-mist.jpg",
+    "pdf": "/comics/Alistair and the Mist-Mending Jar_compressed.pdf",
+    "moods": [
+      "mystery"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Arlo and the Blue Anchor",
+    "cover": "/covers/arlo-anchor.jpg",
+    "pdf": "/comics/Arlo and the Blue Anchor-compressed.pdf",
+    "moods": [
+      "action"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Arlo and the Tiny Bodyguard",
+    "cover": "/covers/arlo-tiny.jpg",
+    "pdf": "/comics/Arlo and the Tiny Bodyguard-compressed.pdf",
+    "moods": [
+      "happy",
+      "action"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Hiro and the Rainy-Day Coat",
+    "cover": "/covers/hiro-rainy.jpg",
+    "pdf": "/comics/Hiro and the Rainy-Day Coat-compressed.pdf",
+    "moods": [
+      "happy"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Hiro and the Spark of Everywhere",
+    "cover": "/covers/hiro-spark.jpg",
+    "pdf": "/comics/Hiro and the Spark of Everywhere-compressed.pdf",
+    "moods": [
+      "action",
+      "thriller"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Hiroshi and the Steam-Venting Balloon",
+    "cover": "/covers/hiroshi-balloon.jpg",
+    "pdf": "/comics/Hiroshi and the Steam-Venting Balloon_compressed.pdf",
+    "moods": [
+      "action"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Nobita and the Remote of Regret",
+    "cover": "/covers/nobita-remote.jpg",
+    "pdf": "/comics/Nobita and the Remote of Regret-compressed.pdf",
+    "moods": [
+      "mystery",
+      "thriller"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "The Day of the Great Zing",
+    "cover": "/covers/great-zing.jpg",
+    "pdf": "/comics/The Day of the Great Zing-compressed.pdf",
+    "moods": [
+      "action",
+      "happy"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "The Last Tick of the Memory Lantern",
+    "cover": "/covers/memory-lantern.jpg",
+    "pdf": "/comics/The Last Tick of the Memory Lantern-compressed.pdf",
+    "moods": [
+      "mystery"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "The Rainbow Wand and the Big Apology",
+    "cover": "/covers/rainbow-wand.jpg",
+    "pdf": "/comics/The Rainbow Wand and the Big Apology-compressed.pdf",
+    "moods": [
+      "happy"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Zap and the Red Sizzle",
+    "cover": "/covers/zap-red-sizzle.jpg",
+    "pdf": "/comics/Zap and the Red Sizzle-compressed.pdf",
+    "moods": [
+      "action"
+    ]
+  }
+]
